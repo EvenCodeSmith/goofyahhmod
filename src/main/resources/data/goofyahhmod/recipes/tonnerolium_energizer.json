@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#X#",
+    "#O#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "X": {
+      "item": "goofyahhmod:tonnerolium_ingot"
+    },
+    "O": {
+      "item": "minecraft:redstone_block"
+    }
+  },
+  "result": {
+    "item": "goofyahhmod:tonnerolium_energizer"
+  }
+}

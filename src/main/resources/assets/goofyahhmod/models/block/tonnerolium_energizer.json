@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "particle": "goofyahhmod:block/tonnerolium_energizer_sides",
+    "north": "goofyahhmod:block/tonnerolium_energizer_sides",
+    "south": "goofyahhmod:block/tonnerolium_energizer_sides",
+    "east": "goofyahhmod:block/tonnerolium_energizer_sides",
+    "west": "goofyahhmod:block/tonnerolium_energizer_sides",
+    "up": "goofyahhmod:block/tonnerolium_energizer_top",
+    "down": "goofyahhmod:block/tonnerolium_energizer_down"
+  }
+}
