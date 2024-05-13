@@ -85,7 +85,7 @@ public class GoofyAhhMod
     @SubscribeEvent
     public void onServerStarting(FMLServerStartingEvent event) {
         // do something when the server starts
-        LOGGER.info("RIFLE! HELLO from server starting");
+        LOGGER.info("SHOTGUN! HELLO from server starting");
     }
 
     // You can use EventBusSubscriber to automatically subscribe events on the contained class (this is subscribing to the MOD
@@ -95,7 +95,7 @@ public class GoofyAhhMod
         @SubscribeEvent
         public static void onBlocksRegistry(final RegistryEvent.Register<Block> blockRegistryEvent) {
             // register a new block here
-            LOGGER.info("RIFLE! HELLO from Register Block");
+            LOGGER.info("SHOTGUN! HELLO from Register Block");
         }
     }
 }
