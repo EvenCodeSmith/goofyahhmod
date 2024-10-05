@@ -36,7 +36,7 @@
 
 ## Contributing
 
-We welcome contributions to improve GoofyAhhMod! Feel free to fork the repository, create new branches for your changes, and submit pull requests.
+I welcome contributions to improve GoofyAhhMod! Feel free to fork the repository, create new branches for your changes, and submit pull requests.
 
 ## License
 
@@ -54,4 +54,4 @@ This mod is licensed under the MIT License.
 
 ---
 
-Thank you for using GoofyAhhMod! We hope it adds an exciting new dimension to your Minecraft gameplay.
+Thank you for using the GoofyAhhMod! I hope it adds an exciting new dimension to your Minecraft gameplay.
