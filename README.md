@@ -25,7 +25,7 @@
 
 ## Compatibility
 
-- **Minecraft Version**: 1.16.5 (or your specified version)
+- **Minecraft Version**: 1.16.5 
 - **Dependencies**: Minecraft Forge
 
 ## Usage
