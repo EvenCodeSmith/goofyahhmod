@@ -1,7 +1,5 @@
 # GoofyAhhMod
 
-**GoofyAhhMod** is a Minecraft mod that introduces a variety of custom blocks, items, and gameplay mechanics to enhance your Minecraft experience. The mod is designed to add unique materials, armor sets, and functional blocks that bring new strategies and fun to the game.
-
 ## Features
 
 ### Custom Blocks
@@ -15,13 +13,6 @@
 
 ### Custom Tile Entities
 - **ModTileEntities**: Custom tile entities that allow the mod's blocks to have advanced functionalities and store additional data.
-
-## Installation
-
-1. Ensure you have Minecraft Forge installed.
-2. Download the latest version of GoofyAhhMod from the [Releases](#) section.
-3. Place the downloaded `.jar` file into the `mods` folder in your Minecraft directory.
-4. Launch Minecraft with the Forge profile and enjoy the new content!
 
 ## Compatibility
 
@@ -47,11 +38,3 @@ This mod is licensed under the MIT License.
 - **Developer**: Even
 - **Contributors**: diesieben07 | https://github.com/diesieben07/SevenCommons A piece of his code was used for the Item Container
 
-## Changelog
-
-### v1.0
-- Initial release with custom blocks, items, containers, and tile entities.
-
----
-
-Thank you for using the GoofyAhhMod! I hope it adds an exciting new dimension to your Minecraft gameplay.
